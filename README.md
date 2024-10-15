@@ -20,3 +20,13 @@ Welcome to the Language Learning App! This application is designed to help users
 
 1. **Clone the repository**:
    git clone https://github.com/yourusername/language-learning-app.git
+   or Download the ZIP file
+
+2. **Navigate to the folder**:
+   cd language-learning-app   
+
+4. **Install required packages**:
+   pip install -r requirements.txt
+
+5. **Run the application**:
+   python main.py
