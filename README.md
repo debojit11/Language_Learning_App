@@ -8,6 +8,7 @@ Welcome to the Language Learning App! This application is designed to help users
 - **Quizzes**: Test your knowledge with quizzes that assess your understanding of vocabulary.
 - **Language Selection**: Choose between Chinese and Japanese to tailor your learning experience.
 - **Topic-Based Learning**: Study specific topics and track your progress in each area.
+- **Room for Improvements**: Later on, I plan to include thr progress tracking feature helping the users in viewing their progress
 
 ## Installation
 
